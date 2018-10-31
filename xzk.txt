@@ -1,4 +1,0 @@
-name:徐子康
-age:17
-sex:男
-height：176
